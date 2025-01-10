@@ -1,2 +1,9 @@
-transformers==4.39.3
-torch==2.1.2+cu121
+pandas
+re
+datasets
+transformers
+torch
+evaluate
+peft
+rouge-score
+matplotlib
